@@ -1,0 +1,8 @@
+{
+  // Tên này phải trùng với tên Worker trên Cloudflare
+  "name": "gui-loi-yeu-thuong",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
